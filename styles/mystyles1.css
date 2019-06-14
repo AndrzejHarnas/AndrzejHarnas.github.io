@@ -13,11 +13,24 @@ li{
   margin-left:1rem;
   width:10rem;
 }
+li < a {
+
+  text-decoration: none;
+}
 
 .btn {
   width:10rem;
 }
 
+.profilowe {
+  display: flex;
+  height:15rem;
+  width: 18rem;
+  background-color: #F4FAFF;
+  align-items: center;
+  margin-top:10px;
+  margin-right:2px;
+}
 
 .container{
   display: flex;
@@ -80,11 +93,13 @@ background-color: #F4FAFF;
 {
   display:flex;
   justify-content: center;
-  align-content: center;
+  align-items:  center;
   height: 20rem;
   background-color: #545f66;
   margin-top: 2rem;
+  margin-bottom: 0;
 }
+
 .mx-auto{
 width:100%;
 }
