@@ -5,3 +5,31 @@
 .display-4{
   font-size: 2rem;
 }
+
+.card-body {
+  text-align: left;
+  letter-spacing: 0.1rem;
+}
+.cvblock {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin:1rem;
+  padding: 1rem;
+  border: 1px solid #FF1654;
+  width:90%;
+}
+
+.daty{
+  display: flex;
+  width: 20rem;
+
+}
+
+.opis{
+  display:flex;
+  width: 30rem;
+  padding-left: 1rem;
+  border-left: 1px solid #FF1654;
+
+}
