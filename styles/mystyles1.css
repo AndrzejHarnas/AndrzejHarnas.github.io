@@ -101,6 +101,16 @@ font-family: 'PT Serif', serif;
   margin-bottom: 0;
 }
 
+.info-main
+{
+  display:flex;
+  justify-content: center;
+  align-items:  top;
+  background-color: #E6FDFF;
+  margin-top: 2rem;
+  margin-bottom: 0;
+}
+
 .mx-auto{
 width:100%;
 }
