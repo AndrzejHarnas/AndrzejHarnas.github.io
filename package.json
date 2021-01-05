@@ -1,0 +1,27 @@
+{
+  "name": "mtesciowa",
+  "version": "1.0.0",
+  "description": "Strona MojaTeściowa.pl",
+  "main": "index.js",
+  "scripts": {
+    "test": "Narazie nie ma żadnego testu"
+    "start": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndrzejHarnas/mtesciowa.git"
+  },
+  "keywords": [
+    "web",
+    "tesciowa",
+    "mojatesciowa",
+    "mojateściowa",
+    "teściowa"
+  ],
+  "author": "Andrzej Gołąbek (Harnas_20)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndrzejHarnas/mtesciowa/issues"
+  },
+  "homepage": "https://github.com/AndrzejHarnas/mtesciowa#readme"
+}
